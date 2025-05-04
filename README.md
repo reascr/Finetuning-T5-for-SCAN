@@ -5,4 +5,5 @@ In order to train the model and run the experiments, make sure to install the re
 <br>
 
 
-<pre> ```bibtex @inproceedings{lake2018generalization, title={Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks}, author={Lake, Brenden and Baroni, Marco}, booktitle={International conference on machine learning}, pages={2873--2882}, year={2018}, organization={PMLR} } ``` </pre>
+<pre> bibtex @inproceedings{lake2018generalization, title={Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks}, author={Lake, Brenden and Baroni, Marco}, booktitle={International conference on machine learning}, pages={2873--2882}, year={2018}, organization={PMLR} } </pre>
+
